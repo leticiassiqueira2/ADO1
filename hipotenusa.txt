@@ -39,8 +39,9 @@ public class Exercicio2 {
         
         perimetro = hipotenusa + catetoA + catetoB;
         
-        System.out.println("O perimetro do triângulo é " + perimetro);   
-           
+        System.out.println("O perimetro do triângulo é " + perimetro);
+   
+        //terceira commit   
         
     }
     
