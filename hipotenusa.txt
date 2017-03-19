@@ -37,8 +37,9 @@ public class Exercicio2 {
         hipotenusa = Math.sqrt((catetoA * catetoA) + (catetoB * catetoB));
         //hipotenusa = Math.sqrt(Math.pow(catetoA, 2) + Math.pow(catetoB,2));
         
-        System.out.println("A hipotenusa do triângulo é " + hipotenusa);
+        perimetro = hipotenusa + catetoA + catetoB;
         
+        System.out.println("O perimetro do triângulo é " + perimetro);   
            
         
     }
